@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Lee Eui-hyun, a student majoring in Artificial Intelligence at Gachon University. Since I’m currently a student, this account is used for my Open Source Software course. Through this class, I hope to pursue my dream of becoming an AI engineer. Nice to meet you!
 
 <!--
 **dmlgus5779-png/dmlgus5779-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
